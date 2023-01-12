@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace WishListApi
 {
+    //asd
     public class Program
     {
         public static void Main(string[] args)
